@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Antonbaget
+- 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web dev. Especially in frontend 
 - 🌱 I’m currently learning ewerything about frontend
 - 💞️ I’m looking to collaborate on some web projects, it will be great practice for me 
